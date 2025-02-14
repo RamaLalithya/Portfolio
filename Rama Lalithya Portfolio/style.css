@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#education {
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+.edu-item {
+    background: #f4f4f4;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-left: 5px solid #333;
+    border-radius: 5px;
+}
+
+.edu-item h3 {
+    margin: 0;
+    color: #333;
+}
+
+.edu-item p {
+    margin: 5px 0 0;
+    color: #777;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+#contact {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#contact h2 {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+#contact p {
+    color: white;
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+#contact a {
+    color: orange;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
